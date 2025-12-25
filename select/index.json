@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "冬がはじまるよ feat. 槇原敬之",
+  "base_artist": "Every Little Thing",
+  "createdAt": "2025-12-25T06:28:46.538135Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "冬がはじまるよ",
+      "artist": "槇原敬之",
+      "has_synced": true,
+      "path": "select/01_冬がはじまるよ_槇原敬之.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "冬がはじまるよ",
+      "artist": "Noriyuki Makihara",
+      "has_synced": true,
+      "path": "select/02_冬がはじまるよ_Noriyuki_Makihara.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "冬がはじまるよ",
+      "artist": "槇原敬之",
+      "has_synced": true,
+      "path": "select/03_冬がはじまるよ_槇原敬之.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "冬がはじまるよ - Fuyu Ga Hajimaruyo",
+      "artist": "Noriyuki Makihara",
+      "has_synced": true,
+      "path": "select/04_冬がはじまるよ_-_Fuyu_Ga_Hajimaruyo_Noriyuki_Makihara.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "冬がはじまるよ (2012 Remaster)",
+      "artist": "槇原敬之",
+      "has_synced": true,
+      "path": "select/05_冬がはじまるよ_(2012_Remaster)_槇原敬之.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "冬がはじまるよ - 2012 Remaster",
+      "artist": "Noriyuki Makihara",
+      "has_synced": true,
+      "path": "select/06_冬がはじまるよ_-_2012_Remaster_Noriyuki_Makihara.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "冬がはじまるよ",
+      "artist": "Every Little Thing",
+      "has_synced": false,
+      "path": "select/pl_01_冬がはじまるよ_Every_Little_Thing.txt"
+    }
+  ]
+}
